@@ -1,2 +1,2 @@
 # image-Sharpening-
-image sharpening using knowledge distillatiuon
+image sharpening using knowledge distillation
